@@ -34,3 +34,8 @@ Future improvements include adding multiple difficulty levels to challenge users
 - Pose Estimation: Utilized Apple’s Vision framework to perform pose detection and draw skeletons on the detected user’s body.
 - Machine Learning Model: Trained using CreateML for action classification (CorrectStance, NoAction).
 - AVFoundation: To operate the live camera for real-time pose tracking.
+
+## References
+
+1. [WWDC 2020: Build Dynamic and Interactive SwiftUI Views](https://developer.apple.com/videos/play/wwdc2020/10043)
+2. [YouTube: Taekwondo Basic Movement](https://www.youtube.com/watch?v=tpIEVgJtOwQ)
