@@ -1,4 +1,4 @@
-# Taekwondo AI Coach
+# 🥋 Taekwondo AI Coach
 
 The Taekwondo AI Coach is an AI-powered application designed to help beginners learn basic Taekwondo stances. Developed for the iPad using Swift, it provides visual and textual guidance, live feedback through pose estimation, and an AI model that delivers real-time feedback on user performance. The app aims to resolve issues like geographic location, quarantine restrictions, and uncertainty during self-learning, especially for those who cannot attend in-person training.
 
